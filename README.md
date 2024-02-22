@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavindu-udara
 - 👀 I’m interested in web application development, AI and Software Development
-- 🌱 I’m currently learning PHP, react, AI and ML
+- 🌱 I’m currently learning PHP, react, express, AI and ML
 - 📫 How to reach me -> use my social media links
 
 <!---
