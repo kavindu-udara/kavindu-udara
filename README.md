@@ -1,4 +1,5 @@
-![download](https://github.com/user-attachments/assets/61b83186-e74e-4bb8-aee4-421f02aa769c)
+<img width="552" alt="Frame 2" src="https://github.com/user-attachments/assets/b1e369f2-9357-47be-8a3b-37c7dc916831">
+
 
 - 👋 Hi, I’m @kavindu-udara
 - 👀 I’m interested in web application development and Mobile application Development
